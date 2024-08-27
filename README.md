@@ -1,2 +1,2 @@
-# sensor-fault-detection
-End to End Machine Learning Project Implemetation on Automobile Air Pressure System Failure
+# End-End Machine Learning Project Template
+Machine Learning Project Template (files and folder structure) from sensor-fault-detection project 
